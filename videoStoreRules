@@ -1,0 +1,10 @@
+video store:
+
+A regular rental costs $2 for two days. Each day past two days costs $1.50.
+A children's rental costs $1.50 for three days.  Each day past three days costs $1.50.
+A new release rental costs $3 for one day.
+
+Each rental gives you one frequent renter point. If you rent a new release for more than one day, you get an extra frequent renter point.
+
+A statement should be printed stating what a customer owes and how many frequent renter pionts they have earned.
+
